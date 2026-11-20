@@ -2,7 +2,8 @@
 
 **Authors:** Abdul Samad (24I-0095) & Faizan Ahmed (24I-0059)  
 **Affiliation:** FAST-NUCES Islamabad, BS Artificial Intelligence  
-**Course:** Computer Networks (Phase 4 — Research Paper)
+**Course:** Computer Networks (Phase 4 — Research Paper)  
+**Repository:** https://github.com/Faizi-tech/rdma-schedule-aware-cc
 
 ---
 
@@ -108,4 +109,3 @@ If you use this code, please cite:
   note      = {FAST-NUCES Islamabad, Computer Networks Phase 4}
 }
 ```
-
